@@ -1,2 +1,2 @@
 # hello-world
-This is a short description.
+This is the first update of this file.
